@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+tesserocr
+PyMuPDF
+langchain
+google-generativeai
+faiss-cpu
+sentence-transformers
+Pillow
+python-dotenv
+streamlit
+requests
