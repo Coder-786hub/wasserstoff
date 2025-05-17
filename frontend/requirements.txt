@@ -11,6 +11,7 @@ async-timeout==4.0.3
 attrs==24.2.0
 backoff==2.2.1
 bcrypt==4.0.1
+streamlit==1.41.1
 breadability==0.1.20
 build==1.2.2.post1
 cachetools==5.5.0

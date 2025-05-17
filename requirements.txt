@@ -16,6 +16,7 @@ build==1.2.2.post1
 cachetools==5.5.0
 certifi==2024.8.30
 cffi==1.17.1
+streamlit==1.41.1
 chardet==5.2.0
 charset-normalizer==3.4.0
 chroma-hnswlib==0.7.6
