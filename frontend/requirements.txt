@@ -21,6 +21,7 @@ charset-normalizer==3.4.0
 chroma-hnswlib==0.7.6
 chromadb==0.5.23
 ci-info==0.3.0
+sentence-transformers==4.1.0
 click==8.1.7
 cloudpickle==3.1.0
 coloredlogs==15.0.1
