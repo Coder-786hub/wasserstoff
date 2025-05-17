@@ -187,7 +187,7 @@ tensorboard-data-server==0.7.2
 termcolor==2.5.0
 textblob==0.18.0.post0
 tf_keras==2.18.0
-tokenizers==0.21.0
+tokenizers==0.20.3
 tomli==2.2.1
 tqdm==4.67.1
 traits==6.4.3
