@@ -40,3 +40,5 @@ python-dotenv==1.0.1
 # Optional: logging / retries / parsing
 backoff==2.2.1
 tqdm==4.67.1
+faiss-cpu==1.8.0
+
